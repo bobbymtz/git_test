@@ -1,1 +1,3 @@
-this was made on CLI using nano
+# git_test
+My first GitHub repo!
+Hello Odin!

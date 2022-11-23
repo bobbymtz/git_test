@@ -1,2 +1,1 @@
-# git_test
-My first GitHub repo!
+this was made on CLI using nano
